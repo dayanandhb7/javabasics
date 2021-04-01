@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87" started-at="2020-09-24T13:50:20 IST" finished-at="2020-09-24T13:50:20 IST">
+    <groups>
+      <group name="login">
+        <method signature="TestNGFeatures.RegPageTest()[pri:0, instance:com.testdata.TestNGFeatures@551aa95a]" name="RegPageTest" class="com.testdata.TestNGFeatures"/>
+        <method signature="TestNGFeatures.loginTest()[pri:0, instance:com.testdata.TestNGFeatures@551aa95a]" name="loginTest" class="com.testdata.TestNGFeatures"/>
+      </group> <!-- login -->
+    </groups>
+    <test name="Default test" duration-ms="87" started-at="2020-09-24T13:50:20 IST" finished-at="2020-09-24T13:50:20 IST">
+      <class name="com.testdata.TestNGFeatures">
+        <test-method status="PASS" signature="HomePageTest()[pri:0, instance:com.testdata.TestNGFeatures@551aa95a]" name="HomePageTest" duration-ms="13" started-at="2020-09-24T13:50:20 IST" finished-at="2020-09-24T13:50:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest -->
+        <test-method status="PASS" signature="RegPageTest()[pri:0, instance:com.testdata.TestNGFeatures@551aa95a]" name="RegPageTest" duration-ms="3" started-at="2020-09-24T13:50:20 IST" finished-at="2020-09-24T13:50:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegPageTest -->
+        <test-method status="PASS" signature="SearchPageTest()[pri:0, instance:com.testdata.TestNGFeatures@551aa95a]" name="SearchPageTest" duration-ms="5" started-at="2020-09-24T13:50:20 IST" finished-at="2020-09-24T13:50:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPageTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.testdata.TestNGFeatures@551aa95a]" name="loginTest" duration-ms="3" started-at="2020-09-24T13:50:20 IST" finished-at="2020-09-24T13:50:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.testdata.TestNGFeatures -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
